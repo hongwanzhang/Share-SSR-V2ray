@@ -34,9 +34,9 @@
 
 以下这些大牌VPN同时提供SSR、V2Ray机场服务，有多个节点可供选择
 
-- **[WannaFlix](https://www.vpndada.com/go/wannaflix)** (使用优惠码“TIPS30”可获得30%折扣）
-- **[12VPN](https://www.vpndada.com/go/12vpn)**
-
+- **[WannaFlix](https://www.vpndada.com/go/wannaflix)** (V2Ray, 使用优惠码“TIPS30”可获得30%折扣）
+- **[12VPN](https://www.vpndada.com/go/12vpn)** (V2Ray)
+- **[SurfShark](https://www.vpndada.com/go/surfshark-cn)** （SSR）
 ---
 
 ## 适合自建梯子的VPS推荐
