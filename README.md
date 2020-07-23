@@ -44,5 +44,6 @@
 自建梯子、机场，必须选择一个合适的VPS。以下这些VPS值得推荐。选择服务器的位置时，建议选择：日本、香港、新加坡、美国西岸（洛杉矶等）
 
 - **[DigitalOcean](https://m.do.co/c/99957c7f7a6c)** (链接含10美元开户优惠）
+- **[Hostwinds](https://www.hostwinds.com/8630.html)** (链接含优惠）
 - **[Vultr](https://www.vultr.com/?ref=7508612)** (链接含优惠）
 - **[搬瓦工](https://bandwagonhost.com/aff.php?aff=46424)** (链接含优惠）
