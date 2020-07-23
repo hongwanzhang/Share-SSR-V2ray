@@ -36,7 +36,7 @@
 
 - **[WannaFlix](https://www.vpndada.com/go/wannaflix)** (使用优惠码“TIPS30”可获得30%折扣）
 - **[12VPN](https://www.vpndada.com/go/12vpn)**
-
+- **[SurfShark](https://www.vpndada.com/go/surfshark-cn)** （SSR）
 ---
 
 ## 适合自建梯子的VPS推荐
