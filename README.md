@@ -11,10 +11,10 @@
 
 | VPN 品牌 | VPN 评测 | 优惠链接 |
 | ------ | ------ | ------ |
-| [![](https://hongwanzhang.github.io/images/express-vpn-logo.jpg)](https://www.vpndada.com/go/expressvpn-discount-cn) | [ExpressVPN评测](https://www.vpndada.com/expressvpn-review-cn/) | [**--> ExpressVPN优惠链接**](https://www.vpndada.com/go/expressvpn-discount-cn) |
-| [![](https://hongwanzhang.github.io/images/nordvpn-logo.png)](https://www.vpndada.com/go/nordvpn-cn) | [NordVPN评测](https://www.vpndada.com/nordvpn-review-cn/) | [**--> NordVPN优惠链接**](https://www.vpndada.com/go/nordvpn-cn) |
-| [![](https://hongwanzhang.github.io/images/vyprvpn-logo.jpg)](https://www.vpndada.com/go/vyprvpn-cn) | [VyprVPN评测](https://www.vpndada.com/vyprvpn-review-cn/) | [**--> VyprVPN优惠链接**](https://www.vpndada.com/go/vyprvpn-cn) |
-| [![](https://hongwanzhang.github.io/images/purevpn-logo.png)](https://www.vpndada.com/go/purevpn-cn) | [PureVPN评测](https://www.vpndada.com/purevpn-review/) | [**--> PureVPN优惠链接**](https://www.vpndada.com/go/purevpn-cn) |
+| [![](https://hongwanzhang.github.io/images/express-vpn-logo.jpg)](https://www.snvaknq.com/zh-cn/?a_fid=1703721&offer=3monthsfree ) | [ExpressVPN评测](https://www.vpndada.com/expressvpn-review-cn/) | [**--> ExpressVPN优惠链接**](https://www.xvbelink.com/zh-cn/order?a_fid=1703721&offer=3monthsfree) |
+| [![](https://hongwanzhang.github.io/images/nordvpn-logo.png)](https://www.vpndada.com/go/nordvpn-cn) | [NordVPN评测](https://www.vpndada.com/nordvpn-review-cn/) | [**--> NordVPN优惠链接**](http://go.affiliatescn.net/aff_c?offer_id=155&aff_id=5221&url_id=551) |
+| [![](https://hongwanzhang.github.io/images/vyprvpn-logo.jpg)](https://www.vpndada.com/go/vyprvpn-cn) | [VyprVPN评测](https://www.vpndada.com/vyprvpn-review-cn/) | [**--> VyprVPN优惠链接**](https://vyprvpn.com/zh/refer/?offer_id=223&aff_id=2231) |
+| [![](https://hongwanzhang.github.io/images/purevpn-logo.png)](https://www.vpndada.com/go/purevpn-cn) | [PureVPN评测](https://www.vpndada.com/purevpn-review/) | [**--> PureVPN优惠链接**](https://billing.purevpn.com/aff.php?aff=18199&chan=cn) |
 *注：PureVPN还可以用于[翻墙回国](https://www.vpndada.com/vpn-into-china-cn/)*
 *参考资料：[中国VPN翻墙软件评测推荐](https://www.vpndada.com/best-vpns-for-china-cn/)*
   
@@ -34,9 +34,9 @@
 
 以下这些大牌VPN同时提供SSR、V2Ray机场服务，有多个节点可供选择
 
-- **[WannaFlix](https://www.vpndada.com/go/wannaflix)** (V2Ray, 使用优惠码“TIPS30”可获得30%折扣）
-- **[12VPN](https://www.vpndada.com/go/12vpn)** (V2Ray)
-- **[SurfShark](https://www.vpndada.com/go/surfshark-cn)** （SSR）
+- **[WannaFlix](https://wannaflix.com/aff.php?aff=153)** (V2Ray, 使用优惠码“TIPS30”可获得30%折扣）
+- **[12VPN](https://12vpn.net/?aff=929)** (V2Ray)
+- **[SurfShark](https://get.surfshark.net/aff_c?offer_id=23&aff_id=1292&url_id=406)** （SSR）
 ---
 
 ## 适合自建梯子的VPS推荐
